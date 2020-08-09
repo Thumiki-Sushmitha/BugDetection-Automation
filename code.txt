@@ -1,0 +1,10 @@
+int a,b,c,d,e,r;
+a=2;
+if(a<b){
+	a=b+d*e*r;
+}
+else{
+	b=r+e;
+}
+c=d*e+a*b;
+#

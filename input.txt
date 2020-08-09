@@ -1,0 +1,21 @@
+int a,b,c,d,e,r;
+float p,q;
+switch(a+b){
+	case 1:{
+				while(a<b){
+					if(a>b){
+						c=d*e+a*b;
+					}
+					else{
+						a=b;
+						for(r=b;;r<c;r=r+e;){
+							a=b+c;
+						}
+					}
+					a=b+d*e*p;
+				}
+				break;
+			}
+	case 2:{b=b+a;break;}
+}
+#
