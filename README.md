@@ -12,10 +12,10 @@ Steps Involved in Enhancing:
 3. Calculate Cyclomatic complexity of graph in Step2.
 
 4. Integrating Code with TRGeneration (Test Requirement Code Generation) to generate test cases.
-<a href="https://github.com/evplatt/TRGeneration">
+https://github.com/evplatt/TRGeneration
 
 5. Passing the test-suite of Step-4 as an input to Nopol.
-<a href="https://github.com/SpoonLabs/nopol">
+https://github.com/SpoonLabs/nopol
 
 This allows the bug patch to be more accurate than the random test-suite. You can try to improvise the code further.
 
